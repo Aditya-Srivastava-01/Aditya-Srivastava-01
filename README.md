@@ -12,7 +12,7 @@
 ---
 
 ## 💫 About Me
-- 🎓 **Education:** 2nd Year IT Student at **DTU** (CGPA: 7.8)
+- 🎓 **Education:** 2nd Year IT Student at **DTU** 
 - 🏆 **Achievement:** Scored **99.59 percentile** in JEE Mains (Top 0.4% in India).
 - 🌍 **Impact:** Leading **Green Lungs Universal Foundation**, an NGO focused on sustainability and social good.
 - 🔭 **In Progress:** Analyzing lunar mineral composition using **Chandrayaan-2 IIRS data**.
